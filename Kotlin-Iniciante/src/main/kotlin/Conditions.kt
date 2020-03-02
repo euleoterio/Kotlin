@@ -9,9 +9,9 @@ fun calculaBonus(cargo: String, salario: Float): Float {
     }
 }
 
-fun maiorDeIdade(idade: Int): Boolean {
-    return idade >= 18
-}
+//fun maiorDeIdade(idade: Int): Boolean {
+//    return idade >= 18
+//}
 
 fun main() {
 

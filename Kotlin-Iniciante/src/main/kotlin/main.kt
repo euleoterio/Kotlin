@@ -5,8 +5,8 @@ fun main(){
     //imutaveis
     val nome= "Vinicius"
     //mutaveis
-    var idade: Int = 23
-    var char: Char = 'v'
+    var idade = 23
+    var char= 'v'
 
     println("Double: Max: "+ Double.MAX_VALUE + "- Double Min: " + Double.MIN_VALUE)
     println("Float: Max: "+ Float.MAX_VALUE + "- Float Min: " + Float.MIN_VALUE)

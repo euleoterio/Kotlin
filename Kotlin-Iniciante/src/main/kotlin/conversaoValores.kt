@@ -1,8 +1,8 @@
 import java.lang.NumberFormatException
 
-fun teste(n1: Int) {
-
-}
+//fun teste(n1: Int) {
+//
+//}
 
 fun main() {
 

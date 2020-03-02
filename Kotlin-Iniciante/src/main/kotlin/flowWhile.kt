@@ -1,6 +1,6 @@
 fun main(){
 
-    var index: Int = 0
+    var index = 0
 
     while(index < 100){
         println(index)

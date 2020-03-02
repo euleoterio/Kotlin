@@ -1,6 +1,6 @@
 fun main(){
 
-    var valor: Int = 9
+    var valor= 9
     val str = if (valor == 10) "Sim" else "Não"
 
     println(str)
